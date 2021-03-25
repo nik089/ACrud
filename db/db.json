@@ -1,0 +1,48 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KFC restaurant",
+      "address": "Noida Sector 62",
+      "email": "kfc@test.com"
+    },
+    {
+      "id": 2,
+      "name": "Macd restaurant",
+      "address": "Noida Sector 60",
+      "email": "macd@test.com"
+    },
+    {
+      "name": "burgerSingh restaurant",
+      "email": "bsingh@test.com",
+      "address": "Noida Electronic city",
+      "id": 3
+    },
+    {
+      "name": "Haldilal restaurant",
+      "email": "hl@test.com",
+      "address": "Noida sector 18",
+      "id": 5
+    },
+    {
+      "name": "Pizzahut restaurant",
+      "address": "Noida sector 16",
+      "email": "ph@test.com",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "nik",
+      "email": "nik@test.com",
+      "password": "nik123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "ptr@gmail.com",
+      "password": "p123",
+      "id": 2
+    }
+  ]
+}
